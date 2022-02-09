@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781720985290",
+    "firebase_url": "https://dailygurus.firebaseio.com",
+    "project_id": "dailygurus",
+    "storage_bucket": "dailygurus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781720985290:android:077b15533b3b2ad0",
+        "android_client_info": {
+          "package_name": "co.smarther.android.dailygurus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781720985290-07j9jn30oimeuav0q7str3c23ofktrml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.smarther.android.dailygurus",
+            "certificate_hash": "b457aa7e1756f8c29e87e64744573dd339f364ab"
+          }
+        },
+        {
+          "client_id": "781720985290-65a78fsr2iq4hvbusoksab3kbcjd68ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-tGjsy7gqbW_RAkei2wUNI56zW-8vAX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781720985290-65a78fsr2iq4hvbusoksab3kbcjd68ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
